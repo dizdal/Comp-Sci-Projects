@@ -1,0 +1,14 @@
+------------------------------Customer Flight Records------------------------------
+
+Priority:   First Name:    Last Name:       Arrival #:     Years:        Miles:
+93         |    Baclan    |      Nguyen    |       3      |      3      |     93000
+90         |    Amanda    |       Trapp    |       2      |      3      |     89000
+74         |    Warren    |     Rexroad    |       5      |      7      |     72000
+61         |     Jorge    |    Gonzales    |       6      |      2      |     65000
+57         |     Bryan    |      Devaux    |       1      |      5      |     53000
+56         |      Dave    |   Lightfoot    |      10      |      3      |     63000
+37         |     Steve    |         Chu    |       9      |      4      |     42000
+30         |     Paula    |        Hung    |       7      |      3      |     34000
+24         |    Joanne    |       Brown    |      11      |      2      |     33000
+19         |       Lou    |       Mason    |       8      |      6      |     21000
+14         |     Sarah    |      Gilley    |       4      |      1      |     17000
